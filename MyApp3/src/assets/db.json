@@ -1,0 +1,250 @@
+{
+  "customer_details": [
+    {
+      "id": 1,
+      "first_name": "Johny",
+      "last_name": "Doe",
+      "date_of_birth": "1996-02-21",
+      "current_address": {
+        "houseno": "21",
+        "street": "2nd Street",
+        "city": "New York",
+        "zipcode": "10021"
+      },
+      "permenant_address": {
+        "houseno": "35",
+        "street": "8nd Street",
+        "city": "New York",
+        "zipcode": "10021"
+      },
+      "email": "Sincere@april.biz",
+      "phone_number": "2125551234"
+    },
+    {
+      "id": 2,
+      "first_name": "James",
+      "last_name": "Butterburg",
+      "date_of_birth": "2022-03-12",
+      "current_address": {
+        "houseno": "145",
+        "street": "2nd Street",
+        "city": "New York",
+        "zipcode": "10025"
+      },
+      "permenant_address": {
+        "houseno": "6649",
+        "street": "N Blue Gum St",
+        "city": "LA",
+        "zipcode": "70116"
+      },
+      "email": "Shanna@melissa.tv",
+      "phone_number": "17707368031"
+    },
+    {
+      "id": 3,
+      "first_name": "Josephine",
+      "last_name": "Darakjy",
+      "date_of_birth": "30-5-1992",
+      "current_address": {
+        "houseno": "4",
+        "street": "B Blue Ridge Blvd",
+        "city": "Brighton",
+        "zipcode": "48116"
+      },
+      "permenant_address": {
+        "houseno": "35",
+        "street": "8nd Street",
+        "city": "New York",
+        "zipcode": "10021"
+      },
+      "email": "Nathan@yesenia.net",
+      "phone_number": "0106926593"
+    },
+    {
+      "id": 4,
+      "first_name": "Art",
+      "last_name": "Chemel",
+      "date_of_birth": "5-1-1999",
+      "current_address": {
+        "houseno": "8",
+        "street": "W Cerritos Ave #54",
+        "city": "Bridgeport",
+        "zipcode": "08014"
+      },
+      "permenant_address": {
+        "houseno": "35",
+        "street": "8nd Street",
+        "city": "New York",
+        "zipcode": "10021"
+      },
+      "email": "Julianne.OConner@kory.org",
+      "phone_number": "14631234447"
+    },
+    {
+      "id": 17,
+      "first_name": "Madhusudan",
+      "last_name": "Jha",
+      "date_of_birth": "2013-06-12",
+      "current_address": {
+        "houseno": "286/450",
+        "street": "Sagwadi Kaliyabid",
+        "city": "Bhavnagar",
+        "zipcode": "364002"
+      },
+      "permenant_address": {
+        "houseno": "286/450",
+        "street": "Sagwadi Kaliyabid",
+        "city": "Bhavnagar",
+        "zipcode": "364002"
+      },
+      "email": "mjha@raytex.co.in",
+      "phone_number": "8209759721"
+    }
+  ],
+  
+  "product": [
+    {
+      "id": 1,
+      "product_name": "Brown eggs",
+      "product_category": "dairy",
+      "product_description": "Raw organic brown eggs in a basket",
+      "units_available": 25,
+      "height": 600,
+      "width": 400,
+      "price": 28.1,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "product_name": "Sweet fresh stawberry",
+      "product_category": "fruit",
+      "product_description": "Sweet fresh stawberry on the wooden table",
+      "units_available": 25,
+      "height": 450,
+      "width": 299,
+      "price": 29.45,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "product_name": "Asparagus",
+      "product_category": "vegetable",
+      "product_description": "Asparagus with ham on the wooden table",
+      "units_available": 25,
+      "height": 450,
+      "width": 299,
+      "price": 18.95,
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "product_name": "Green smoothie",
+      "product_category": "dairy",
+      "product_description": "Glass of green smoothie with quail egg's.",
+      "units_available": 25,
+      "height": 600,
+      "width": 399,
+      "price": 17.68,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "product_name": "Raw legums",
+      "product_category": "vegetable",
+      "product_description": "Raw legums on the wooden table",
+      "units_available": 25,
+      "height": 450,
+      "width": 299,
+      "price": 17.11,
+      "rating": 2
+    },
+    {
+      "product_id": 6,
+      "product_name": "Fresh stawberry",
+      "product_category": "fruit",
+      "product_description": "Sweet fresh stawberry on the wooden table",
+      "units_available": 25,
+      "height": 600,
+      "width": 399,
+      "price": 28.59,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "product_name": "Pesto with basil",
+      "product_category": "vegetable",
+      "product_description": "Italian traditional pesto with basil, chesse and oil",
+      "units_available": 25,
+      "height": 450,
+      "width": 299,
+      "price": 18.19,
+      "rating": 2
+    },
+    {
+      "id": 8,
+      "product_name": "Baking cake",
+      "product_category": "dairy",
+      "product_description": "Baking cake in rural kitchen - dough  recipe ingredients.",
+      "units_available": 25,
+      "height": 450,
+      "width": 675,
+      "price": 11.14,
+      "rating": 4
+    },
+    {
+      "id": 9,
+      "product_name": "Hazelnut in black ceramic",
+      "product_category": "vegetable",
+      "product_description": "Hazelnut in black ceramic bowl on old wooden background. forest wealth.",
+      "units_available": 25,
+      "height": 450,
+      "width": 301,
+      "price": 27.35,
+      "rating": 0
+    },
+    {
+      "id": 10,
+      "product_name": "Lemon and salt",
+      "product_category": "fruit",
+      "product_description": "Rosemary, lemon and salt on the table",
+      "units_available": 25,
+      "height": 450,
+      "width": 299,
+      "price": 15.79,
+      "rating": 5
+    },
+    {
+      "id": 11,
+      "product_name": "Homemade bread",
+      "product_category": "bakery",
+      "product_description": "Homemade bread",
+      "units_available": 25,
+      "height": 450,
+      "width": 301,
+      "price": 17.48,
+      "rating": 3
+    },
+    {
+      "id": 12,
+      "product_name": "Legums",
+      "product_category": "vegetable",
+      "product_description": "Cooked legums on the wooden table",
+      "units_available": 25,
+      "height": 600,
+      "width": 399,
+      "price": 14.77,
+      "rating": 0
+    },
+    {
+      "id": 13,
+      "product_name": "Fresh tomato",
+      "product_category": "vegetable",
+      "product_description": "Fresh tomato juice with basil",
+      "units_available": 25,
+      "height": 600,
+      "width": 903,
+      "price": 16.3,
+      "rating": 2
+    }
+  ]
+}
